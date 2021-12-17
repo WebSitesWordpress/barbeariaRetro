@@ -1,0 +1,41 @@
+# Translation of Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-03 19:33:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Responsive Menu &#8211; Create Mobile-Friendly Menu - Stable (latest release)\n"
+
+#: v4.0.0/inc/classes/class-admin.php:293
+#: v4.0.0/inc/classes/class-admin.php:294 v4.0.0/templates/rmp-editor.php:116
+msgid "Settings"
+msgstr "Configurações"
+
+#: v4.0.0/inc/classes/class-rmp-menu.php:348
+#: v4.0.0/templates/menu-elements/search.php:4
+msgid "Search"
+msgstr "Procurar"
+
+#. Author URI of the plugin
+msgid "https://responsive.menu"
+msgstr "https://responsive.menu"
+
+#. Plugin Name of the plugin
+#: responsive-menu.php:66 v4.0.0/inc/classes/class-admin.php:500
+#: v4.0.0/inc/classes/class-admin.php:502
+#: v4.0.0/inc/classes/class-admin.php:516
+#: v4.0.0/inc/classes/class-admin.php:517
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:52
+#: v4.0.0/inc/classes/elementor/widgets/class-rmp-widget.php:116
+#: v4.0.0/templates/rmp-settings.php:30
+msgid "Responsive Menu"
+msgstr "Responsive Menu"
+
+#. Description of the plugin
+msgid "Highly Customisable Responsive Menu Plugin for WordPress"
+msgstr "Plugin de menu responsivo altamente personalizável para WordPress"
